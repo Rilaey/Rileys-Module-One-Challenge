@@ -17,6 +17,6 @@
 
 ## Usage
 
-![screenshot of hompage](./Develop/assets/images/screenshot_Horiseon.png)
+![screenshot of hompage](./images/screenshot_Horiseon.png)
 
-
+- Link to access the webpage 
