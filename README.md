@@ -19,4 +19,4 @@
 
 ![screenshot of hompage](./images/screenshot_Horiseon.png)
 
-- Link to access the webpage 
+- Link to access the webpage https://rilaey.github.io/Rileys-Module-One-Challenge/
